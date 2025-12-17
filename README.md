@@ -30,7 +30,7 @@ A modern, feature-rich QR code generator built with React, TypeScript, and Tailw
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-app.vercel.app) *(Update with your deployed URL)*
+[View Live Demo](https://qr-code-generator-topaz-one.vercel.app/)
 
 ## 🛠️ Tech Stack
 
