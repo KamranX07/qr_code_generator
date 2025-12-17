@@ -32,12 +32,6 @@ A modern, feature-rich QR code generator built with React, TypeScript, and Tailw
 
 [View Live Demo](https://your-app.vercel.app) *(Update with your deployed URL)*
 
-## 📸 Screenshots
-
-![Main Interface](./screenshots/main.png)
-![Customization](./screenshots/customization.png)
-![QR Code Example](./screenshots/qr-example.png)
-
 ## 🛠️ Tech Stack
 
 - **Frontend Framework:** React 18
